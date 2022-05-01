@@ -4,6 +4,6 @@ Este codigo a partir de la siguiente estructura de datos:
 
 ![Datos](/images/datos.png)
 
-Imprime en patalla:
+Imprime en consola:
 
 ![resultado](/images/resultado.png)
